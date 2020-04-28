@@ -21,4 +21,4 @@ Otros paquetes (requerido): segmented_1.1-0
 
 CONTENIDOS:
 - segmeted19.R: funciones R para estimar los puntos de cambio en regresión Poisson con tendencia exponencial (código original por Muggeo, Sottile y Porcu, 2020).
-- segmentedChile.R: comandos en R para obtener los resultados del Reporte disponible en: 
+- segmentedChile.R: comandos en R para obtener los resultados del Reporte disponible en: http://matematica.usm.cl/covid-19-en-chile
