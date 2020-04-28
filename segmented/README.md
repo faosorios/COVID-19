@@ -1,4 +1,4 @@
-# Estimación del número de regímenes para el número de casos de COVID-19 en Chile
+# Estimación de cambios de régimen para el número de casos de COVID-19 en Chile
 
 [![R](https://img.shields.io/badge/Made%20with-R%20under%20development-success)](https://cran.r-project.org/)
 [![segmented](https://img.shields.io/badge/segmented-1.1--0-red)](https://cran.r-project.org/package=segmented)
