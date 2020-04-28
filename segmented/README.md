@@ -9,8 +9,7 @@ COVID-19 en Chile. Los datos son obtenidos desde la pagina web:
 https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto3
 
 Se utiliza un modelo de regresión con crecimiento exponencial para datos Poisson. La metodología
-para la determinación de los puntos de cambio es discutida en:
-Muggeo, V.M.R. (2003). Estimating regression models with unknown break-points. Statistics in Medicine 22, 3055-3071.
+para la determinación de los puntos de cambio es discutida en: Muggeo, V.M.R. (2003). Estimating regression models with unknown break-points. *Statistics in Medicine* **22**, 3055-3071.
 
 El procedimiento permite determinar los tiempos de duplicación (en días) del número de casos de COVID-19 en Chile
 estimar las tasas de crecimiento y los cambios de régimen. Detalles de la implementación y código original
