@@ -1,1 +1,1 @@
-# Análisis para datos de COVID-19 en Chile
+# Análisis de datos de COVID-19 en Chile
