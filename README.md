@@ -1,4 +1,4 @@
-# Análisis de datos de COVID-19 en Chile
+# Estimación de puntos de cambio usando regresión segmentada para datos del brote de COVID-19 en Chile
 
 Códigos en R para replicar los análisis presentados en el reporte disponible en la pagina web:
 
