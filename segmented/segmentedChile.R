@@ -12,7 +12,7 @@ dbnames <- c("Fecha", "Arica.y.Parinacota", "Tarapaca", "Antofagasta", "Atacama"
 names(chile) <- dbnames
 npsi <- 1:15 # number of 'periods'
 hundred <- ">=100" # more than 100 cases
-zero <- ">=0" # more than 100 cases
+zero <- ">=0" # more than 0 cases
 
 ## loading required package
 library(segmented)
