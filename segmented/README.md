@@ -15,7 +15,7 @@ El procedimiento permite determinar los tiempos de duplicación (en días) del n
 estimar las tasas de crecimiento y los cambios de régimen. Detalles de la implementación y código original
 disponible en, [doi: 10.13140/RG.2.2.32798.28485](http://doi.org/10.13140/RG.2.2.32798.28485)
 
-Para ejecutar interactivamente hacer click en el siguiente icono: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fosorios/COVID-19/master?urlpath=lab).
+Para ejecutar interactivamente hacer click en el siguiente icono: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/faosorios/COVID-19/master?urlpath=lab).
 
 Agradecimientos a [Alonso Ogueda](https://github.com/aoguedao) por proveer el código para el script de Jupyter Notebook.
 
