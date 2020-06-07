@@ -17,6 +17,8 @@ disponible en, [doi: 10.13140/RG.2.2.32798.28485](http://doi.org/10.13140/RG.2.2
 
 Para ejecutar interactivamente hacer click en el siguiente icono: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fosorios/COVID-19/master?urlpath=lab).
 
+Agradecimientos a [Alonso Ogueda](https://github.com/aoguedao) por proveer el código para el script de Jupyter Notebook.
+
 Paquetes R (base) usados: stats, graphics, grDevices, utils, datasets, methods, Autoloads, base
 
 Otros paquetes (requerido): segmented_1.1-0
